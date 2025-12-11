@@ -60,7 +60,7 @@ This PoC sends data to an external OOB listener, ideal for scenarios where you c
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/theemperorspath/xss-via-svg.git
-cd xss-svg
+cd xss-via-svg
 ```
 
 ### 2️⃣ Configure Blind XSS Payload
